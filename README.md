@@ -1,5 +1,15 @@
-# Hi I'm Liu, Welcome to my github profile 👋
+# Welcome to my github profile 👋
+My name is Liu. I'm interesting in programing language and AI technology.
 
+---
+## 🌱 My Skills and Tools
+>**_phyton__**
+>
+>**_C language__**
+>
+>**_C++__**
+>
+>**_Arduino__**
 <!--
 **AlinaWillow/AlinaWillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
