@@ -3,13 +3,13 @@ My name is Liu. I'm interesting in programing language and AI technology.
 
 ---
 ## 🌱 My Skills and Tools
->**_phyton__**
+> **_phyton_**
 >
->**_C language__**
+>**_C language_**
 >
->**_C++__**
+>**_C++_**
 >
->**_Arduino__**
+>**_Arduino_**
 <!--
 **AlinaWillow/AlinaWillow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
